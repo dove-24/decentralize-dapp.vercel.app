@@ -1,1 +1,1 @@
-# decentralize-dapp.vercel.app
+# centralize-dapp.vercel.app
